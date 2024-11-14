@@ -1,0 +1,3 @@
+﻿  meet_in_the_middle_Lab.cpp
+C:\Users\nessa\OneDrive\Documents\GitHub\meet-in-the-middle-Vhuerta24\meet_in_the_middle_Lab\meet_in_the_middle_Lab\meet_in_the_middle_Lab.cpp(13,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  meet_in_the_middle_Lab.vcxproj -> C:\Users\nessa\OneDrive\Documents\GitHub\meet-in-the-middle-Vhuerta24\meet_in_the_middle_Lab\x64\Debug\meet_in_the_middle_Lab.exe
